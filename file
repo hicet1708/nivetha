@@ -1,0 +1,9 @@
+<html>
+<body>
+<form method=POST>
+select image to upload:
+<input type=file name=upload file/></br>
+<input type=submit name=upload image value=submit/></br>
+</form>
+</body>
+</html>
